@@ -1,3 +1,4 @@
+'use client';
 import React from 'react';
 
 export default function DateAndTime() {
@@ -8,10 +9,9 @@ export default function DateAndTime() {
         <div className="flex flex-col w-max items-end font-semibold">
             {/* Current Date */}
             <div>{currentDate}</div>
-            
+
             {/* Current Time */}
             <div>{currentTime}</div>
         </div>
     );
 }
-    
