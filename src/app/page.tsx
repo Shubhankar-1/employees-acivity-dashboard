@@ -14,7 +14,7 @@ export default function Home() {
                 <DateAndTime />
             </div>
 
-            <div className="flex flex-col md:flex-row gap-4 mt-4 items-center md:items-start">
+            <div className="flex flex-col lg:flex-row gap-4 mt-4 items-center lg:items-start">
 
                 {/* Employees activity table */}
                 <Table />

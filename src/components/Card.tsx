@@ -11,10 +11,10 @@ type CardProps = {
 
 export default function Card({ image_url, title, employee_name, designation }: CardProps) {
     return (
-        <div className='flex flex-col items-center rounded-lg p-2 h-max w-max border shadow-md bg-gradient-to-tl from-[#eae9fb] to-white'>
-            
+        <div className='flex flex-col items-center rounded-lg p-2 h-max w-max min-w-max border shadow-md bg-gradient-to-tl from-[#eae9fb] to-white'>
+
             {/* Employee profile image */}
-            <Image className='rounded-md' src={image_url} alt="Employee Activity" width={300} height={300} />
+            <Image className='rounded-md' src={image_url} alt="Employee Activity" width={250} height={250} />
 
             {/* Employee description */}
             <div className='text-center mt-2'>
