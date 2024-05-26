@@ -7,6 +7,8 @@ export default function Table() {
     return (
         <div className='w-full overflow-x-scroll md:overflow-visible'>
             <table className='w-full min-w-max shadow-lg overflow-hidden rounded-md'>
+                
+                {/* Table Headers */}
                 <thead className='bg-[#1e40ae] text-white'>
                     <tr>
                         <th className='font-normal py-3 pr-4 text-left'></th>
@@ -17,7 +19,11 @@ export default function Table() {
                         <th className='font-normal py-3 pr-4 text-left'>Changes</th>
                     </tr>
                 </thead>
+
+                {/* Table Body */}
                 <tbody>
+
+                    {/* Loops through employee data */}
                     {employees.map((employee, index) => (
                         <tr key={index} className={`border-b !p-10 ${(index % 2 == 0) ? "bg-[#f9fafc]" : ""}`}>
 
