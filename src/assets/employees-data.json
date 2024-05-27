@@ -2,7 +2,7 @@
     {
         "rank": 1,
         "name": "Cornie Dennick",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Electrician",
         "no_of_hours_worked": 45,
         "changes": 1.4
@@ -10,7 +10,7 @@
     {
         "rank": 2,
         "name": "Brod Tortoise",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Project Manager",
         "no_of_hours_worked": 33,
         "changes": 1.5
@@ -18,7 +18,7 @@
     {
         "rank": 3,
         "name": "Happy Rawdales",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Supervisor",
         "no_of_hours_worked": 27,
         "changes": 1.2
@@ -26,7 +26,7 @@
     {
         "rank": 4,
         "name": "Brendin Strangeway",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Construction Worker",
         "no_of_hours_worked": 35,
         "changes": 1.3
@@ -34,7 +34,7 @@
     {
         "rank": 5,
         "name": "Merrily Crumly",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Surveyor",
         "no_of_hours_worked": 35,
         "changes": 1.1
@@ -42,7 +42,7 @@
     {
         "rank": 6,
         "name": "Tedie Iacovolo",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Construction Expeditor",
         "no_of_hours_worked": 43,
         "changes": 1.0
@@ -50,7 +50,7 @@
     {
         "rank": 7,
         "name": "Edie Bastone",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Subcontractor",
         "no_of_hours_worked": 11,
         "changes": 1.3
@@ -58,7 +58,7 @@
     {
         "rank": 8,
         "name": "Ciel Stolz",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Construction Expeditor",
         "no_of_hours_worked": 22,
         "changes": 1.6
@@ -66,7 +66,7 @@
     {
         "rank": 9,
         "name": "Donovan Zamora",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Architect",
         "no_of_hours_worked": 37,
         "changes": 1.2
@@ -74,7 +74,7 @@
     {
         "rank": 10,
         "name": "Rozelle Dybald",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Electrician",
         "no_of_hours_worked": 8,
         "changes": 1.7
@@ -82,7 +82,7 @@
     {
         "rank": 11,
         "name": "Maybelle Boreham",
-        "profile_image":"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "profile_image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
         "designation": "Electrician",
         "no_of_hours_worked": 21,
         "changes": 1.5

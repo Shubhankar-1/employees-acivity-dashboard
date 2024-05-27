@@ -1,6 +1,11 @@
 import Card from "@/components/Card";
 import DateAndTime from "@/components/DateAndTime";
 import Table from "@/components/Table";
+import Image from "next/image";
+import logo from "@/assets/Logo.png";
+
+// Importing employees data from JSON file
+import employees from "@/assets/employees-data.json";
 
 export default function Home() {
     return (
@@ -8,7 +13,7 @@ export default function Home() {
             <div className="flex justify-between items-center">
 
                 {/* Heading */}
-                <h1 className="text-xl md:text-3xl font-bold text-black/80">Employees Activity Dashboard</h1>
+                <h1 className="text-xl md:text-3xl font-bold text-black/80 flex gap-2 justify-center items-center"><Image src={logo} width={60} height={60} alt="logo" />  Employees Activity Dashboard</h1>
 
                 {/* Date and Time */}
                 <DateAndTime />
@@ -20,7 +25,7 @@ export default function Home() {
                 <Table />
 
                 {/* Employee of the month */}
-                <Card employee_name="Cornie Dennick" designation="Electrician" title="Employee of the Month" image_url="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg" />
+                <Card employee_name={employees[0]?.name} designation={employees[0]?.designation} title="Employee of the month" image_url={employees[0]?.profile_image} />
             </div>
         </div>
     );

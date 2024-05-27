@@ -6,7 +6,7 @@ export default function DateAndTime() {
     const currentTime = new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: 'numeric' });
 
     return (
-        <div className="flex flex-col w-max items-end font-semibold">
+        <div className="flex flex-col w-max md:items-end font-semibold">
             {/* Current Date */}
             <div>{currentDate}</div>
 
